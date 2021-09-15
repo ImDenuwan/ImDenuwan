@@ -47,8 +47,8 @@ You can use the website to generate badges: https://shields.io/
   <br />
 </p>  
 
-# MOST USED LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImDenuwan&theme=dark&show_icons=true)<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-## 🎵 Now playing
+# 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+# MOST USED LANGUAGES
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImDenuwan&theme=dark&show_icons=true)<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
