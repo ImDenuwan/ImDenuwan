@@ -20,13 +20,13 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 ## My Github Status
-![ImDenuwan's GitHub Status](https://github-readme-stats.vercel.app/api/?username=ImDenuwan&theme=dark&show_icons=true)
+![ImDenuwan's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImDenuwan&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)
 
 - ![Profile views](https://gpvc.arturio.dev/ImDenuwan)
 
 
 # MY TOOLS AND LANG
-
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 <p align ="left">
   <br />
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
@@ -47,8 +47,8 @@ You can use the website to generate badges: https://shields.io/
   <br />
 </p>  
 
+# MOST USED LANGUAGES
+<a href="https://github.com/ImDenuwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImDenuwan&layout=compact&theme=react&hide_border=true" /> 
+  
 # 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
-# MOST USED LANGUAGES
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImDenuwan&theme=dark&show_icons=true)<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
