@@ -49,6 +49,15 @@ You can use the website to generate badges: https://shields.io/
 
 # MOST USED LANGUAGES
 <a href="https://github.com/ImDenuwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImDenuwan&layout=compact&theme=react&hide_border=true" /> 
+ 
+# Contribution Graph:
+
+<p align="center">
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=ImDenuwan&custom_title=Contribution+Graph&theme=xcode"
+    />
+</p>
   
 # 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
