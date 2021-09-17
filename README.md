@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MY TOOLS AND LANG
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+<a href="https://github.com/ImDenuwan"><img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 <p align ="left">
   <br />
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
@@ -51,7 +51,7 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://github.com/ImDenuwan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImDenuwan&layout=compact&theme=react&hide_border=true" /> 
  
 # Contribution Graph:
-
+<a href="https://github.com/ImDenuwan">
 <p align="center">
     <img
         width="100%"
