@@ -12,12 +12,12 @@ You can use the website to generate badges: https://shields.io/
 
 
 - 🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
-- 🔭 I’m currently learning Python And HTML(CircleCI); 
+- 🔭 I’m currently learning Python And C; 
 - 👯 I’m looking to collaborate on : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 - 🤔 I’m looking for help : For  Me  <br>
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I'm Still Student, and still Learning Phython 😅;
-- 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+- 📫 How to reach me : [![profile](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](t.me/Denuwan999)
 
 ## 📊 My Github Status
 ![ImDenuwan's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImDenuwan&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)
@@ -44,7 +44,7 @@ You can use the website to generate badges: https://shields.io/
 <p align="center">
     <img
         width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=ImDenuwan&custom_title=Contribution+Graph&theme=xcode"
+        src="https://github-readme-activity-graph.cyclic.app/graph?username=ImDenuwan&custom_title=ImDenuwan's+Contribution+Graph&theme=xcode"
     />
 </p>
   
