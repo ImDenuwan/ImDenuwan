@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for help : For  Me  <br>
 - 💬 Ask me about anything, I am happy to help;
 - ⚡ Fun-Fact: I'm Still Student, and still Learning Phython 😅;
-- 📫 How to reach me : [![profile](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](t.me/Denuwan999)
+- 📫 How to reach me : [![profile](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://t.me/Denuwan999)
 
 ## 📊 My Github Status
 ![ImDenuwan's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImDenuwan&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)
