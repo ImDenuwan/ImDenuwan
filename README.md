@@ -16,13 +16,13 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking to collaborate on : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 - 🤔 I’m looking for help : For  Me  <br>
 - 💬 Ask me about anything, I am happy to help;
-- ⚡ Fun-Fact: I'm Still Student, and still Learning Phython 😅;
+- ⚡ Fun-Fact: I don't know anything;
 - 📫 How to reach me : [![profile](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://t.me/Denuwan999)
 
 ## 📊 My Github Status
 ![ImDenuwan's GitHub Status](https://github-readme-stats.vercel.app/api?username=ImDenuwan&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true)
 
-- ![Profile views](https://gpvc.arturio.dev/ImDenuwan)
+- ![Profile views](https://komarev.com/ghpvc/?username=ImDenuwan)
 
 
 # 🛠️ MY TOOLS AND LANG
@@ -44,7 +44,7 @@ You can use the website to generate badges: https://shields.io/
 <p align="center">
     <img
         width="100%"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=ImDenuwan&custom_title=ImDenuwan's+Contribution+Graph&theme=xcode"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=ImDenuwan&custom_title=ImDenuwan's+Contribution+Graph&theme=xcode"
     />
 </p>
   
