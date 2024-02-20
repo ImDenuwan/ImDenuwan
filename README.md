@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Denuwan 👋 , A Developer from Sri Lanka 🇱🇰.<img src="https://camo.githubusercontent.com/9ac37deb639be55b527c43769735278bc5181cfc6cd9e122b42ae827c907a2d6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f36332f36632f30313633366335343334636430343632303836363230633630666466656331362e676966" width="50px">
+## Hi, I'm Denuwan 👋 , A Developer from Sri Lanka 🇱🇰. <img src="https://media.baamboozle.com/uploads/images/197596/1666349648_63882_gif-url.gif" width="35px">
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
